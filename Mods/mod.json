@@ -1,0 +1,9 @@
+{
+    "id":  "stellardrive-cases",
+    "name":  "Cases!",
+    "author":  "Krunk",
+    "version":  "0.1.0",
+    "description":  "Have you ever thought, what could StellarDrive possibly be missing? A shop, cases, keys, and gambling. Needs SDModKit.",
+    "thumbnail":  "ct.png",
+    "images": ["cg.png","ccg2.png"]
+}
